@@ -1,0 +1,96 @@
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.exe.config
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.Properties.Resources.resources
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.GenerateResource.Cache
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.exe
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.pdb
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraph.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraph.xml
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\de\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\es\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\fr\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\hu\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\it\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ja\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\pt\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\ru\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\sk\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\sv\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\tr\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.exe
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.pdb
+c:\users\junkyu\documents\visual studio 2013\Projects\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.DlgZedTest.resources
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.exe.config
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.exe
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.exe
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ZedGraph.xml
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.csprojResolveAssemblyReference.cache
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.DlgZedTest.resources
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.Properties.Resources.resources
+C:\Users\wyz\Downloads\ZedGraphExample\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.GenerateResource.Cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ZedGraphExample.exe.config
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.exe
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.csprojResolveAssemblyReference.cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\Interop.MLApp.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.ResolveComReference.cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.DlgZedTest.resources
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.Properties.Resources.resources
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.GenerateResource.Cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ZedGraphExample.exe
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ZedGraph.xml
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\zedgraph_ms\ZedGraphExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ZedGraphExample.exe.config
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\Interop.MLApp.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.ResolveComReference.cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.exe
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ZedGraphExample.exe
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ZedGraphExample.pdb
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ZedGraph.xml
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.csprojResolveAssemblyReference.cache
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.DlgZedTest.resources
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.Properties.Resources.resources
+C:\Users\wyz\Documents\Visual Studio 2015\Projects\Zedgraph_ms_zoom\ZedGraphExample\obj\Debug\ZedGraphExample.csproj.GenerateResource.Cache
